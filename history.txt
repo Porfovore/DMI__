@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  pwd
+      
+      
     3  Avid Mansurov 3 grupa pwd
     4  uname
     5  uname-r
@@ -57,3 +57,16 @@
    57  cd darbi
    58  history
    59  history > history.txt
+   60  ls -l
+   61  cat history.txt
+   62  pwd
+   63  ls -l
+   64  git init
+   65  git add .
+   66  git config --global user.email avidonso@gmail.com
+   67  git
+   68  git commit -m "20170914_09_30"
+   69  git remote add origin http://github.com/Porfovore/DMI__.git
+   70  git push origin master
+   71  history
+   72  history > history.txt
