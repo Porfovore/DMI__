@@ -1,63 +1,64 @@
     1  VirtualBox --startvm XP
-    2  nano
-faila parbaude/veidosana uzreiz ar nosaukumu
-    3  ls -l
-    4  cat git-download.sh 
-    5  git-download
-Tiesibas
-    6  whereis ls
-    7  ls -l/bin/ls
-    8  ls -l /bin/ls
-    9  ls -l git-download.sh 
-   10  echo $Path
-kur atrodas
-   11  echo $PATH
-   12  cat /bin/ls
-   13  ls -l
-   14  pwd
-idot izpildit tiesibas
-   15  echo $PATH
-   16  PATH=$PATH:/home/user
-   17  echo $PATH
-   18  ls
-   19  /bin/ls
-   20  ~/git-downlaod.sh
-   21  ~/git-download.sh
-   22  git-download.sh
-   23  ls -l
-   24  ls -l bin/ls
-iedot atlauju
-   25  chmod 744 git-download.sh
-   26  ls -l
-   27  git-download.sh
-   28  sudo git-download ghex
-   29  sudo git-update 
-   30  ls -l
-   31  git-download
-mainit nosaukumu
-   32  mv git-download.sh  git-download
-   33  ls -l
-   34  git-download
-   35  cat git-download 
-   36  clear
-   37  ls -l
-   38  ls -l -a
-   39  ls -la
-   40  /
-   41  cd /
-   42  cd DMI__
-   43  ls -l
-   44  ls -la
-   45  cd 
-   46  cd DMI__
-   47  ls -la
-   48  pwd
-   49  ls -la
-   50  cp /home/user/git-download ./ 
-   51  ls -la
-   52  nano git-upload
-   53  cat git-upload 
-   54  git-upload
-   55  history > history_20170921.txt
-
-PATH - celi     
+    2  ls -la
+    3  cat git-download
+    4  nano git-upload 
+    5  firefox &
+    6  ifconfig
+    7  _ALI=10
+    8  echo $_ALI 
+    9  _ALI=20
+   10  echo $_ALI 
+   11  perdon
+   12  man pirdon
+   13  LUL
+   14  echo python
+   15  echo Avids Mansurovs
+   16  echo Porfovore
+   17  IMJA=artur peso4ik
+   18  IMJA="artur peso4ik"
+   19  $ IMJA
+   20  $IMJA
+   21  echo $IMJA
+   22  clear
+   23  quit
+   24  -ALI=50
+   25  clear
+   26  clea
+   27  clear
+   28  celar
+   29  clear
+   30  ywes
+   31  yes
+   32  ps
+   33  mainigais=5
+   34  ech $mainigais
+   35  echo $mainigais 
+   36  mainigais="teksts"
+   37  echo $mainigais 
+   38  mkdir folder
+   39  cd folder/
+   40  > as.txt
+   41  echo  $mainigais >>  as.txt
+   42  cat as.txt 
+   43  echo  $mainigais >  as.txt
+   44  cat as.txt 
+   45  sh as.txt
+   46  file as.txt 
+   47  cd ..
+   48  nano shell_treninjsh.sh
+   49  chmod 744  shell_treninjsh.sh
+   50  shell_treninjsh
+   51  ./shell_treninjsh
+   52  ./shell_treninjsh.sh
+   53  Es varu nogalināt pitony.Tu zini,vecīt?
+   54  ./shell_treninjsh.sh
+   55  echo $AAA
+   56  cat shell_treninjsh.sh 
+   57  echo $NAME
+   58  nano shell_treninjsh.sh
+   59  ./shell_treninjsh.sh 
+   60  nano shell_treninjsh.sh
+   61  ./shell_treninjsh.sh 
+   62  nano shell_treninjsh.sh
+   63  ./shell_treninjsh.sh 
+   64  history > history_20170921.txt
