@@ -1,21 +1,17 @@
     1  VirtualBox --startvm XP
     2  nano
-faila parbaude/veidosana uzreiz ar nosaukumu
     3  ls -l
     4  cat git-download.sh 
     5  git-download
-Tiesibas
     6  whereis ls
     7  ls -l/bin/ls
     8  ls -l /bin/ls
     9  ls -l git-download.sh 
    10  echo $Path
-kur atrodas
    11  echo $PATH
    12  cat /bin/ls
    13  ls -l
    14  pwd
-idot izpildit tiesibas
    15  echo $PATH
    16  PATH=$PATH:/home/user
    17  echo $PATH
@@ -26,7 +22,6 @@ idot izpildit tiesibas
    22  git-download.sh
    23  ls -l
    24  ls -l bin/ls
-iedot atlauju
    25  chmod 744 git-download.sh
    26  ls -l
    27  git-download.sh
@@ -34,7 +29,6 @@ iedot atlauju
    29  sudo git-update 
    30  ls -l
    31  git-download
-mainit nosaukumu
    32  mv git-download.sh  git-download
    33  ls -l
    34  git-download
@@ -59,5 +53,17 @@ mainit nosaukumu
    53  cat git-upload 
    54  git-upload
    55  history > history_20170921.txt
-
-PATH - celi     
+   56  ls -l
+   57  git-upload 
+   58  chmod 744 git-upload 
+   59  ls -l
+   60  git-upload
+   61  PATH=$PATH:~/DMI__
+   62  git-upload
+   63  nanp git-upload 
+   64  nano git-upload 
+   65  nano history_20170921.txt  
+   66  history > history_20170921_09_50.txt
+   67  nano history_20170921_09_50.txt 
+   68  ls -a
+   69  history > history_20170921_09_50.txt 
