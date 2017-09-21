@@ -5,6 +5,7 @@
     5  git-download
     6  whereis ls
     7  ls -l/bin/ls
+tiesibas
     8  ls -l /bin/ls
     9  ls -l git-download.sh 
    10  echo $Path
@@ -29,6 +30,7 @@
    29  sudo git-update 
    30  ls -l
    31  git-download
+mainit nosaukumu
    32  mv git-download.sh  git-download
    33  ls -l
    34  git-download
@@ -58,6 +60,8 @@
    58  chmod 744 git-upload 
    59  ls -l
    60  git-upload
+
+ iedot tiesibas izpildit,pievienot sistemas celu 
    61  PATH=$PATH:~/DMI__
    62  git-upload
    63  nanp git-upload 
