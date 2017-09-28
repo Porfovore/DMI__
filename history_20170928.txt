@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Porfovore/DMI__
+    3  ls -l
+    4  pwd
+    5  ls -l
+    6  clear
+    7  nano shell_examples.sh
+    8  mkdir temp
+    9  ls -l
+   10  cd temp/
+   11  ls -l
+   12  cd ..
+   13  pwd
+   14  cd temp/
+   15  pwd
+   16  /home/user/DMI__/temp/shell_examples.sh
+   17  cd ..
+   18  rmdir temp
+   19  ls -l
+   20  ./shell_examples.sh 
+   21  PATH=$PATH:~/DMI
+   22  chmod 744
+   23  chmod 744 shell_examples.sh
+   24  ./shell_examples.sh 
+   25  nano shell_examples.sh 
+   26  ./shell_examples.sh 
+   27  cat shell_examples.sh 
+   28  nano shell_examples.sh 
+   29  ./shell_examples.sh 
+   30  nano shell_examples.sh 
+   31  ./shell_examples.sh 
+   32  cat shell_examples.sh 
+   33  echo $0
+   34  nano shell_examples.sh 
+   35  echo $0
+   36  ./shell_examples.sh 
+   37  nano shell_examples.sh 
+   38  ./shell_examples.sh 
+   39  cat shell_examples.sh 
+   40  echo $#\
+   41  $#
+   42  nano shell_examples.sh 
+   43  echo $#
+   44  ./shell_examples.sh 
+   45  ./shell_examples.sh arg1
+   46  ./shell_examples.sh arg1 arg2
+   47  ./shell_examples.sh arg1 arg2 arg3
+   48  nano shell_examples.sh 
+   49  $#
+   50  echo $#
+   51  ./shell_examples.sh 
+   52  ./shell_examples.sh arg1
+   53  ./shell_examples.sh arg1 arg2
+   54  nano git-upload 
+   55  history > history_20170928.txt
