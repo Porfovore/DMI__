@@ -1,0 +1,21 @@
+1  cat history.txt #paradit faila saturu
+2  cd .. # iet atpakal
+3  chmod 744 git-download.sh # pieskirt izpildisanas atlauju
+4  echo # parada teksta liniju
+5  git clone  # klone visus datus no github
+6  git-download #  skripts,kurs lejuplade no github
+7  git-upload   # skripts,kurs augsupielade
+8  history # komandas vestures apraksts
+9  history > history.txt # komandas vestures apraksta saglabasana txt faila
+10 ls # mapes saturs
+11 ls -l # mapes saturs ar atlauju parskatu par failiem.
+12 mkdir darbi # izveidot direktoriju
+13 mv git-download.sh  git-download # parvietot failu
+14 nano shell_treninjsh.sh # skripta,faila modificesana
+15 PATH=$PATH:/home/user # pievieno celam mapi
+16 rm test1.txt # izdzest failu
+17 rmdir temp # izdzest direktoriju
+18 uname -r # funkcija,kas identifice sistemu
+19 where is # parada konkreta faila atrasanas vietu
+20 whoami # Komanda parada lietotaja vardu,kura ir asocieta ar pasreizeju faktisku identifikatoru
+21 ./shell_examples.sh # pieskirta atlauja skriptam
