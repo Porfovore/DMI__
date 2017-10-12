@@ -1,72 +1,69 @@
-      
-      
-    3  Avid Mansurov 3 grupa pwd
-    4  uname
-    5  uname-r
-    6  lsb_release
-    7  lsb-release
-    8  echo avid >> test1.txt
-    9  cat test1.txt
-   10  echo $0
-   11  who
-   12  whoami
-   13  ls
-   14  cd
-   15  cd .
-   16  echo $0
-   17  pwd
-   18  whoami
-   19  who
-   20  ls
-   21  rm test1.txt
-   22  ls
-   23  ls-l
-   24  ls -l
-   25  ls -a
-   26  ls -al
-   27  ls
-   28  cd Documents/
-   29  pwd
-   30  ls
-   31  ls -la
-   32  cd ..
-   33  pwd
-   34  cd ..
-   35  pwd
-   36  cd ..
-   37  pwd
-   38  mkdir darbi
-   39  cd /home/user
-   40  ~
-   41  cd /home/user
-   42  pwd
-   43  cd /
-   44  pwd
-   45  cd ~
-   46  pwd
-   47  cd /
-   48  pwd
-   49  cd
-   50  pwd
-   51  mkdir darbi
-   52  ls
-   53  cd
-   54  pwd
-   55  ls- l
-   56  ls -l
-   57  cd darbi
-   58  history
-   59  history > history.txt
-   60  ls -l
-   61  cat history.txt
-   62  pwd
-   63  ls -l
-   64  git init
-   65  git add .
-   66  git config --global user.email avidonso@gmail.com
-   67  git
-   68  git commit -m "20170914_09_30"
-   69  git remote add origin http://github.com/Porfovore/DMI__.git
-   70  git push origin master
-   71  history
-   72  history > history.txt
+    1  VirtualBox --startvm XP
+    2  cd DMI__
+    3  ls
+    4  git clone https://github.com/Porfovore/DMI__
+    5  cd DMI__
+    6  ls -l shell_operators.sh
+    7  nano
+    8  nano  shell_operators.sh
+    9  ls -l shell_operators.sh
+   10  ls -l
+   11  nano
+   12  mv Shell_operators.sh shell_operators.shmv Shell_operators.sh shell_operators.sh
+   13  ls -l
+   14  mv Shell_operators.sh shell_operators.sh
+   15  ls -l
+   16  chmod 744 shell_operators.sh 
+   17  ls -l
+   18  nano shell_operators.sh 
+   19  ./shell_operators.sh 
+   20  nano shell_operators.sh 
+   21  ./shell_operators.sh 
+   22  nano shell_operators.sh 
+   23  ./shell_operators.sh 5 5
+   24  nano shell_operators.sh 
+   25  ./shell_operators.sh 5 5
+   26  ./shell_operators.sh 4 2
+   27  nano shell_operators.sh 
+   28  ./shell_operators.sh 4 2
+   29  ./shell_operators.sh 5 5
+   30  ./shell_operators.sh 2 4
+   31  nano shell_operators.sh 
+   32  ./shell_operators.sh 5 5
+   33  nano shell_operators.sh 
+   34  ./shell_operators.sh 10 2
+   35  ./shell_operators.sh 2 10
+   36  nano shell_operators.sh 
+   37  ./shell_operators.sh 2 10
+   38  nano shell_operators.sh 
+   39  10 2
+   40  ./shell_operators.sh 10 2
+   41  nano shell_operators.sh 
+   42  ./shell_operators.sh  10 15
+   43  ./shell_operators.sh  2 10
+   44  nano shell_operators.sh 
+   45  ./shell_operators.sh  15
+   46  15 15
+   47  ./shell_operators.sh  15 15
+   48  nano shell_operators.sh 
+   49  ./shell_operators.sh  15 15
+   50  ./shell_operators.sh  15
+   51  ./shell_operators.sh  1 15
+   52  nano shell_operators.sh 
+   53  ./shell_operators.sh  10
+   54  ./shell_operators.sh  10 15
+   55  ./shell_operators.sh  10 10
+   56  nano shell_operators.sh 
+   57  ./shell_operators.sh  10 
+   58  ./shell_operators.sh  10 10
+   59  nano shell_operators.sh 
+   60  clear
+   61  nano shell_operators.sh 
+   62  ./shell_operators.sh  10 
+   63  ./shell_operators.sh  10 10
+   64  nano shell_operators.sh 
+   65  ./shell_operators.sh  10 
+   66  ./shell_operators.sh  10 10
+   67  nano shell_operators.sh 
+   68  ./git-upload
+   69  history > history.txt
