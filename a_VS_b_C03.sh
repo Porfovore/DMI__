@@ -92,4 +92,12 @@ numberz () {
 	done
 }
 
-numberz
+
+average () {
+	for $i in $*
+	do
+		printf $i
+	done
+}
+
+average
