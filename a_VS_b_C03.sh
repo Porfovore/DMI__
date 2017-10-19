@@ -94,10 +94,25 @@ numberz () {
 
 
 average () {
-	for $i in $*
+max=$1
+min=$1
+	for i in $*
 	do
-		printf $i
+		if [ $i -gt $max ]
+		then
+			max=$i
+		fi
+
+		if [ $i -lt $min ]
+		then
+			min=$i
+		fi
+		avg=`expr $avg + $i`
 	done
+	printf "\n max = $max \n min = $min \n avg = `expr $avg / $#` \n"
 }
 
-average
+average $*
+
+
+#Made by RTUhacker
