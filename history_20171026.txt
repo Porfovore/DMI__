@@ -1,0 +1,39 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Porfovore/DMI__
+    3  cd DMI__/
+    4  nano if.sh
+    5  chmod 744 if.sh 
+    6  ./ if.sh 
+    7  ./if.sh 
+    8  ./if.sh 10
+    9  ./if.sh -10
+   10  nano if.sh 
+   11  cat if.sh 
+   12  ./if.sh -10
+   13  ./if.sh 10
+   14  nano if.sh 
+   15  cat if.sh 
+   16  ./if.sh 10
+   17  ./if.sh -5
+   18  nano if.sh 
+   19  ./if.sh 10
+   20  ./if.sh  -10
+   21  ./if.sh  0
+   22  nano if.sh 
+   23  nano array_loop.sh
+   24  chmod 744 array_loop.sh 
+   25  ./array_loop.sh 
+   26  ./array_loop.sh 7 5 9 6
+   27  nano array_loop.sh 
+   28  ./array_loop.sh 
+   29  ./array_loop.sh  7 5 8 3
+   30  nano array_loop.sh 
+   31  ./array_loop.sh 
+   32  ./array_loop.sh 5 6 8 2
+   33  nano array_loop.sh 
+   34  ./array_loop.sh 5 6 29 58 100 6
+   35  nano array_loop.sh 
+   36  ./array_loop.sh 5 6 29 58 100 6
+   37  nano array_loop.sh 
+   38  ./array_loop.sh 5 6 29 58 100 6
+   39  history > history_20171026.txt
