@@ -1,69 +1,21 @@
     1  VirtualBox --startvm XP
-    2  cd DMI__
-    3  ls
-    4  git clone https://github.com/Porfovore/DMI__
-    5  cd DMI__
-    6  ls -l shell_operators.sh
-    7  nano
-    8  nano  shell_operators.sh
-    9  ls -l shell_operators.sh
-   10  ls -l
-   11  nano
-   12  mv Shell_operators.sh shell_operators.shmv Shell_operators.sh shell_operators.sh
-   13  ls -l
-   14  mv Shell_operators.sh shell_operators.sh
-   15  ls -l
-   16  chmod 744 shell_operators.sh 
-   17  ls -l
-   18  nano shell_operators.sh 
-   19  ./shell_operators.sh 
-   20  nano shell_operators.sh 
-   21  ./shell_operators.sh 
-   22  nano shell_operators.sh 
-   23  ./shell_operators.sh 5 5
-   24  nano shell_operators.sh 
-   25  ./shell_operators.sh 5 5
-   26  ./shell_operators.sh 4 2
-   27  nano shell_operators.sh 
-   28  ./shell_operators.sh 4 2
-   29  ./shell_operators.sh 5 5
-   30  ./shell_operators.sh 2 4
-   31  nano shell_operators.sh 
-   32  ./shell_operators.sh 5 5
-   33  nano shell_operators.sh 
-   34  ./shell_operators.sh 10 2
-   35  ./shell_operators.sh 2 10
-   36  nano shell_operators.sh 
-   37  ./shell_operators.sh 2 10
-   38  nano shell_operators.sh 
-   39  10 2
-   40  ./shell_operators.sh 10 2
-   41  nano shell_operators.sh 
-   42  ./shell_operators.sh  10 15
-   43  ./shell_operators.sh  2 10
-   44  nano shell_operators.sh 
-   45  ./shell_operators.sh  15
-   46  15 15
-   47  ./shell_operators.sh  15 15
-   48  nano shell_operators.sh 
-   49  ./shell_operators.sh  15 15
-   50  ./shell_operators.sh  15
-   51  ./shell_operators.sh  1 15
-   52  nano shell_operators.sh 
-   53  ./shell_operators.sh  10
-   54  ./shell_operators.sh  10 15
-   55  ./shell_operators.sh  10 10
-   56  nano shell_operators.sh 
-   57  ./shell_operators.sh  10 
-   58  ./shell_operators.sh  10 10
-   59  nano shell_operators.sh 
-   60  clear
-   61  nano shell_operators.sh 
-   62  ./shell_operators.sh  10 
-   63  ./shell_operators.sh  10 10
-   64  nano shell_operators.sh 
-   65  ./shell_operators.sh  10 
-   66  ./shell_operators.sh  10 10
-   67  nano shell_operators.sh 
-   68  ./git-upload
-   69  history > history.txt
+    2  ./hello.py 
+    3  print "2+2" 
+    4  nano ello.py 
+    5  nano hello.py 
+    6  ./hello.py 
+    7  nano hello.py 
+    8  ./hello.py 
+    9  nano hello.py 
+   10  ./hello.py 
+   11  nano hello.py 
+   12  ./hello.py 
+   13  nano hello.py 
+   14  ./hello.py 
+   15  nano hello.py 
+   16  ./hello.py 
+   17  nano hello.py 
+   18  ./hello.py 
+   19  nano hello.py 
+   20  cd ..
+   21  history > history.txt
