@@ -1,0 +1,60 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Porfovore/DMI__
+    3  cd DMI__/
+    4  cd PYTHON/
+    5  nano mainigie.py
+    6  ./mainigie.py
+    7  chmod 744 mainigie.py 
+    8  ./mainigie.py 
+    9  nano mainigie.py 
+   10  ./mainigie.py 
+   11  nano mainigie.py 
+   12  ./mainigie.py 
+   13  celar
+   14  clear
+   15  nano mainigie.py 
+   16  clear
+   17  nano mainigie.py 
+   18  ./mainigie.py 
+   19  nano mainigie.py 
+   20  ./mainigie.py 
+   21  nano mainigie.py 
+   22  ./mainigie.py 
+   23  nano mainigie.py 
+   24  ./mainigie.py 
+   25  clear
+   26  ./mainigie.py 
+   27  nano mainigie.py 
+   28  ./mainigie.py 
+   29  nano mainigie.py 
+   30  ./mainigie.py 
+   31  nano mainigie.py 
+   32  ./mainigie.py 
+   33  nano mainigie.py 
+   34  ./mainigie.py 
+   35  nano mainigie.py 
+   36  ./mainigie.py 
+   37  clear
+   38  ./mainigie.py 
+   39  nano mainigie.py 
+   40  ./mainigie.py 
+   41  nano mainigie.py 
+   42  ./mainigie.py \
+   43  ./ma
+   44  ./mainigie.py 
+   45  clear
+   46  ./mainigie.py 
+   47  nano dialogs.py
+   48  chmod 744 dialogs.py 
+   49  ./dialogs.py 
+   50  nano dialogs.py
+   51  ./dialogs.py 
+   52  nano dialogs.py
+   53  ./dialogs.py 
+   54  nano dialogs.py
+   55  ./dialogs.py 
+   56  nano dialogs.py
+   57  ./dialogs.py 
+   58  nano dialogs.py
+   59  ./dialogs.py 
+   60  history > history.txt
