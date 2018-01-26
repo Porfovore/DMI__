@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def mans_cos_kv(x,n):
-    k=0
+    k=1
     S=0
     while k <= n:
         a = (-1)**(k+1)*x**(2*k)*2**(2*k-1)/math.factorial(2*k)
@@ -19,7 +19,7 @@ y = (1+np.cos(2*x))/2
 plt.plot(x,y)
 
 colors=['r','g','b','y','c','k']
-for i in range(0,5,1):
+for i in range(1,6):
      f = 1-mans_cos_kv(x,i)
      plt.plot(x,f, colors[i])
      
